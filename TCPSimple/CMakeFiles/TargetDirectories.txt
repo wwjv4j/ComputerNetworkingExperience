@@ -1,0 +1,3 @@
+/home/wsl/TCPSimple/CMakeFiles/stop_wait.dir
+/home/wsl/TCPSimple/CMakeFiles/edit_cache.dir
+/home/wsl/TCPSimple/CMakeFiles/rebuild_cache.dir
